@@ -344,3 +344,13 @@
   background-repeat: no-repeat;
   
 }
+
+.container-peng{
+background-image: url(/public/img/peng-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-position: -6% top;
+}
+.container-parr{
+  background-image: url(../public/img/parr-removebg-preview.png);
+  background-repeat: no-repeat;
+}
