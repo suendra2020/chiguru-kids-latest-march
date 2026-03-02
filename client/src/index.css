@@ -339,3 +339,8 @@
   height: 270px;
 }
 }
+.container-yellow {
+  background-image: url(../public/img/yellow.png);
+  background-repeat: no-repeat;
+  
+}

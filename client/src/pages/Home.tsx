@@ -108,7 +108,7 @@ export default function Home() {
       </section>
 
       {/* About Section */}
-      <section className="container py-16 md:py-24 relative z-10">
+      <section className="container container-yellow py-16 md:py-24 relative z-10">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div className="animate-slide-up">
             <h2 className="text-4xl md:text-5xl font-bold text-primary mb-6">
@@ -136,7 +136,7 @@ export default function Home() {
 
       {/* Programs Overview */}
       <section className="bg-card py-16 md:py-24 relative z-10">
-        <div className="container">
+        <div className="container container-yellow">
           <h2 className="section-title text-center mb-12">Our Programs</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {[
@@ -246,7 +246,7 @@ export default function Home() {
 
       {/* CTA Section */}
       <section className="bg-primary text-primary-foreground py-16 md:py-24 relative z-10">
-        <div className="container text-center">
+        <div className="container text-center container-yellow">
           <h2 className="text-4xl md:text-5xl font-bold mb-6">
             Ready to Join Our Family?
           </h2>
