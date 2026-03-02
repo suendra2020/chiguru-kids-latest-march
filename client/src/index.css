@@ -333,3 +333,9 @@
  width: 207px;
     height: 69px;
 }
+/* Styles apply for 786px and below */
+@media screen and (max-width: 786px) {
+.carosule-img{
+  height: 270px;
+}
+}

@@ -45,7 +45,7 @@ export default function Home() {
       </div>
 
       {/* Hero Carousel */}
-      <section className="relative h-[500px] md:h-[600px] overflow-hidden rounded-b-3xl z-10">
+      <section className="relative h-[500px] md:h-[600px] overflow-hidden rounded-b-3xl z-10 carosule-img">
         <div className="relative w-full h-full">
           {heroImages.map((image, index) => (
             <div
